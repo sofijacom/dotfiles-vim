@@ -19,7 +19,7 @@
 </details>
 
 # Install
-Place the files in
+*Place the files in*
 - /home/spot/.vim
 - /home/spot/.vimrc
 
