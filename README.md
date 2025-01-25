@@ -12,6 +12,7 @@
 
 </div>
 
+</details>
 
 # Install
 Place the files in
