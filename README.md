@@ -4,5 +4,5 @@
 
 # Install
 ```
-git clone https://github.com/sofijacom/dotfiles-vim.git
+git clone https://github.com/sofijacom/dotfiles-vim.git ~/spot
 ```
