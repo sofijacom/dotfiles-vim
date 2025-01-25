@@ -1,4 +1,8 @@
+<div align="center">
+  
 # *dotfiles-vim*
+
+</div>
 
 <div align="center">
   
