@@ -19,9 +19,9 @@
 </details>
 
 # ***Install***
-  *Place the files in*
-- /home/spot/.vim
-- /home/spot/.vimrc
+- *Place the files in*
+  - /home/spot/.vim
+    - /home/spot/.vimrc
 
 ```
 git clone https://github.com/sofijacom/dotfiles-vim.git
