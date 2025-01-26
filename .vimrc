@@ -1,3 +1,4 @@
+" .vim
 
 " Syntax highlighting.
 syntax enable
