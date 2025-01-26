@@ -20,12 +20,6 @@ set number
 " let g:airline_theme = 'violet'
 let g:airline_theme = 'airlineish'
 
-" unicode symbols
-"let g:airline_left_sep = '»'
-"let g:airline_left_sep = '▶'
-"let g:airline_right_sep = '«'
-"let g:airline_right_sep = '◀'
-
 " Powerline symbols.
 let g:airline_left_sep = ''
 let g:airline_left_alt_sep = ''
