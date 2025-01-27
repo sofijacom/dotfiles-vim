@@ -45,7 +45,7 @@ let g:airline_right_alt_sep = ''
 let g:airline#extensions#whitespace#enabled = 0
 
 " Bufer.
-let g:airline#extensions#tabline#enabled = 1"
+let g:airline#extensions#tabline#enabled = 1"  " Disable buffer ( 0" )
 
 let g:airline#extensions#tabline#left_sep = ' '
 let g:airline#extensions#tabline#left_alt_sep = '|'
@@ -53,7 +53,7 @@ let g:airline#extensions#tabline#left_alt_sep = '|'
 let g:airline#extensions#tabline#formatter = 'default'
 
 " Clock.
-"let g:airline#extensions#clock#auto = 0
+"let g:airline#extensions#clock#auto = 0     " Disable the clock - uncomment ( " )
 let g:airline#extensions#clock#format = ' %H:%M:%S'
 "let g:airline#extensions#clock#format = ' %H:%M %a, %d %b %Y'
 let g:airline#extensions#clock#updatetime = 1000
