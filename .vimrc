@@ -44,8 +44,8 @@ let g:airline_right_alt_sep = ''
 
 let g:airline#extensions#whitespace#enabled = 0
 
-" Bufer.
-let g:airline#extensions#tabline#enabled = 1"  " Disable buffer ( 0" )
+" Bufer.  Disable buffer ( 0" )
+let g:airline#extensions#tabline#enabled = 1"
 
 let g:airline#extensions#tabline#left_sep = ' '
 let g:airline#extensions#tabline#left_alt_sep = '|'
