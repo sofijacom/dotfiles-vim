@@ -54,7 +54,7 @@ let g:airline#extensions#tabline#formatter = 'default'
 
 " Clock.
 "let g:airline#extensions#clock#auto = 0
-let g:airline#extensions#clock#format = '󱑍 %H:%M:%S'
+let g:airline#extensions#clock#format = ' %H:%M:%S'
 let g:airline#extensions#clock#updatetime = 1000
 
 " Enable the use of the mouse.
