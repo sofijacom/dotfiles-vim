@@ -42,6 +42,8 @@ let g:airline_right_alt_sep = ''
 "let g:airline_right_sep = ''
 "let g:airline_right_alt_sep = ''
 
+let g:airline_powerline_fonts = 1
+
 let g:airline#extensions#whitespace#enabled = 0
 
 " Bufer.  Disable buffer ( 0" )
