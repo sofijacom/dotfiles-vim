@@ -76,3 +76,6 @@ let g:airline#extensions#clock#updatetime = 1000
 
 " Enable the use of the mouse.
 set mouse=a
+
+" Disable Vim intro message.
+set shortmess+=I
