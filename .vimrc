@@ -79,3 +79,5 @@ set mouse=a
 
 " Disable Vim intro message.
 set shortmess+=I
+
+set colorcolumn=80
