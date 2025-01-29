@@ -15,9 +15,11 @@ syntax enable
 " 1.
 " Colorscheme.
 " colorscheme dracula
+
 " 2.
 colorscheme catppuccin_mocha
 set termguicolors
+
 " 3.
 "set termguicolors
 "let g:tokyonight_style = 'night' " available: night, storm
