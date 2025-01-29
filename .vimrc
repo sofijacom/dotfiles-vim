@@ -17,12 +17,12 @@ syntax enable
 " colorscheme dracula
 
 " 2.
-colorscheme catppuccin_mocha
+colorscheme catppuccin_mocha        " available: catppuccin_macchiato , catppuccin_mocha , catppuccin_frappe , catppuccin_latte
 set termguicolors
 
 " 3.
 "set termguicolors
-"let g:tokyonight_style = 'night' " available: night, storm
+"let g:tokyonight_style = 'night'  " available: night, storm
 "let g:tokyonight_enable_italic = 1
 "colorscheme tokyonight
 
