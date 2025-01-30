@@ -21,10 +21,10 @@ syntax enable
 "set termguicolors
 
 " 3.
-colorscheme tokyonight
 set termguicolors
 let g:tokyonight_style = 'night'  " available: night, storm
 let g:tokyonight_enable_italic = 1
+colorscheme tokyonight
 
 " set background=dark              " When set to "dark", Vim  try  use colors that look
                                    " good on  dark background. When set to "light", Vim will
