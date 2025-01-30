@@ -35,6 +35,7 @@ colorscheme tokyonight
 set number
 
 " Colorscheme airline.
+"let g:airline_theme = 'dracula'
 "let g:airline_theme = 'violet'
 "let g:airline_theme = 'airlineish'
 
