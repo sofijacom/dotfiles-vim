@@ -21,10 +21,10 @@ syntax enable
 "set termguicolors
 
 " 3.
+colorscheme tokyonight
 set termguicolors
 let g:tokyonight_style = 'night'  " available: night, storm
 let g:tokyonight_enable_italic = 1
-colorscheme tokyonight
 
 " set background=dark              " When set to "dark", Vim  try  use colors that look
                                    " good on  dark background. When set to "light", Vim will
@@ -35,15 +35,21 @@ colorscheme tokyonight
 set number
 
 " Colorscheme airline.
-"let g:airline_theme = 'dracula'
-"let g:airline_theme = 'violet'
 "let g:airline_theme = 'airlineish'
+let g:airline_theme = 'tokyonight'
+"let g:airline_theme = 'dracula'
+
+"  Colorscheme airline. ~/.vim/pack/dist/start/vim-airline-themes/autoload/airline/themes/
+"let g:airline_theme = 'kolor'
+"let g:airline_theme = 'violet'
+"let g:airline_theme = 'jet'
+"let g:airline_theme = 'biogoo'
 
 " Powerline symbols. Default
-" let g:airline_left_sep = ''
-" let g:airline_left_alt_sep = ''
-" let g:airline_right_sep = ''
-" let g:airline_right_alt_sep = ''
+"let g:airline_left_sep = ''
+"let g:airline_left_alt_sep = ''
+"let g:airline_right_sep = ''
+"let g:airline_right_alt_sep = ''
 
 " Powerline symbols.
 "let g:airline_left_sep = ''
