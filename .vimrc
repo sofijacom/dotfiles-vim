@@ -86,4 +86,5 @@ set mouse=a
 set shortmess+=I
 
 set colorcolumn=80
+"highlight ColorColumn guibg=Black   " Black , #333853
 
