@@ -14,17 +14,17 @@ syntax enable
 
 " 1.
 " Colorscheme.
-" colorscheme dracula
+"colorscheme dracula
 
 " 2.
-colorscheme catppuccin_mocha       " available: catppuccin_macchiato , catppuccin_mocha , catppuccin_frappe , catppuccin_latte
-set termguicolors
+"colorscheme catppuccin_mocha       " available: catppuccin_macchiato , catppuccin_mocha , catppuccin_frappe , catppuccin_latte
+"set termguicolors
 
 " 3.
-"set termguicolors
-"let g:tokyonight_style = 'night'  " available: night, storm
-"let g:tokyonight_enable_italic = 1
-"colorscheme tokyonight
+set termguicolors
+let g:tokyonight_style = 'night'  " available: night, storm
+let g:tokyonight_enable_italic = 1
+colorscheme tokyonight
 
 " set background=dark              " When set to "dark", Vim  try  use colors that look
                                    " good on  dark background. When set to "light", Vim will
@@ -35,14 +35,14 @@ set termguicolors
 set number
 
 " Colorscheme airline.
-" let g:airline_theme = 'violet'
-let g:airline_theme = 'airlineish'
+"let g:airline_theme = 'violet'
+"let g:airline_theme = 'airlineish'
 
-" Powerline symbols.
-let g:airline_left_sep = ''
-let g:airline_left_alt_sep = ''
-let g:airline_right_sep = ''
-let g:airline_right_alt_sep = ''
+" Powerline symbols. Default
+" let g:airline_left_sep = ''
+" let g:airline_left_alt_sep = ''
+" let g:airline_right_sep = ''
+" let g:airline_right_alt_sep = ''
 
 " Powerline symbols.
 "let g:airline_left_sep = ''
