@@ -10,6 +10,13 @@
 
 </div>
 
+<hr>
+
+<details>
+<summary><b>🦋 Image</b></summary>
+
+<br>
+
 <div align="center">
   
 ![2025-01-29_03-24](https://github.com/user-attachments/assets/75c05359-92cd-463a-8d44-cc011a8e0553)
@@ -35,6 +42,7 @@
 </div>
 
 </details>
+<br>
 
 > ***Install***
 - *Place the files in*
