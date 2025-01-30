@@ -86,5 +86,6 @@ set mouse=a
 set shortmess+=I
 
 set colorcolumn=80                   " Indent from the edge
+" Line color
 "highlight ColorColumn guibg=Black   " Black , #333853
 
