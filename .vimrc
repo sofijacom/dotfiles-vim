@@ -85,6 +85,6 @@ set mouse=a
 " Disable Vim intro message.
 set shortmess+=I
 
-set colorcolumn=80
+set colorcolumn=80                   " Indent from the edge
 "highlight ColorColumn guibg=Black   " Black , #333853
 
