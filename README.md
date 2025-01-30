@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![2025-01-30_06-08](https://github.com/user-attachments/assets/ac9b0f5a-175b-4f58-9ac4-4b85df682488)
+![2025-01-30_06-28](https://github.com/user-attachments/assets/d3d75893-1108-4e3a-ba45-7ff44c4ee956)
 
 </div>
 
