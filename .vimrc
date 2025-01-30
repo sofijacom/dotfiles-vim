@@ -17,7 +17,7 @@ syntax enable
 " colorscheme dracula
 
 " 2.
-colorscheme catppuccin_mocha        " available: catppuccin_macchiato , catppuccin_mocha , catppuccin_frappe , catppuccin_latte
+colorscheme catppuccin_mocha       " available: catppuccin_macchiato , catppuccin_mocha , catppuccin_frappe , catppuccin_latte
 set termguicolors
 
 " 3.
@@ -61,11 +61,9 @@ let g:airline_powerline_fonts = 1
 let g:airline#extensions#whitespace#enabled = 0
 
 " Bufer.
-let g:airline#extensions#tabline#enabled = 1
-
+let g:airline#extensions#tabline#enabled = 1   " On-1 , Off-0
 let g:airline#extensions#tabline#left_sep = ' '
 let g:airline#extensions#tabline#left_alt_sep = '|'
-
 let g:airline#extensions#tabline#formatter = 'default'
 
 " Clock.
