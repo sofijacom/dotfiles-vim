@@ -86,3 +86,4 @@ set mouse=a
 set shortmess+=I
 
 set colorcolumn=80
+
