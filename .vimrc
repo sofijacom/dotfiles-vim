@@ -89,3 +89,68 @@ set colorcolumn=80                   " Indent from the edge
 " Line color
 "highlight ColorColumn guibg=Black   " Black , #333853
 
+" ---------------------------------
+" Buffers
+" ---------------------------------
+
+set hidden
+set nobackup
+set nowritebackup
+set noswapfile
+
+if has("undofile")
+  set undofile
+  set undodir=~/.undo
+end
+
+" ---------------------------------
+" UI
+" ---------------------------------
+
+"syntax enable
+set title
+set titleold=
+set number
+set nolist
+set listchars=tab:▸\ ,eol:¬,extends:❯,precedes:❮
+set visualbell t_vb=
+set showcmd
+set showmode
+set ch=1
+set grepprg=ack
+set grepformat=%f:%l:%m
+set binary
+set autoindent
+set smartindent
+set smarttab
+set guicursor=a:blinkon0
+set nowrap
+set backspace=indent,eol,start
+set nospell
+set linespace=0
+set tabstop=4
+set shiftwidth=2
+set softtabstop=2
+set shiftround
+set expandtab
+set nosmarttab
+set formatoptions+=n
+set virtualedit=block
+set isk+=_,$,@,%,#,-
+set encoding=utf-8
+set fileencodings=ucs-bom,utf-8,latin1,default
+set ignorecase
+set smartcase
+set hlsearch
+set incsearch
+set gdefault
+set foldenable
+set nostartofline
+set scrolljump=5
+set scrolloff=3
+set splitbelow
+set splitright
+set ttimeout
+set ttimeoutlen=20
+set notimeout
+set clipboard=unnamed
