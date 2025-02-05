@@ -44,6 +44,13 @@
 </details>
 <br>
 
+<div align="center">
+  
+![MergedImages](https://github.com/user-attachments/assets/5ad57673-a86b-4df2-bf9f-38844c2345e5)
+
+
+</div>
+
 > ***Install***
 - *Place the files in*
   - $HOME/.vim
