@@ -46,9 +46,6 @@
 
 
 > ***Install***
-- *Place the files in*
-  - $HOME/.vim
-    - $HOME/.vimrc
 
 ```
 git clone --recursive https://github.com/sofijacom/dotfiles-vim.git
