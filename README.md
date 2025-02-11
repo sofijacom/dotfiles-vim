@@ -52,7 +52,7 @@ git clone https://github.com/sofijacom/dotfiles-vim.git ~/dotfiles-vim
 cd ~/dotfiles-vim
 mv .vim ~/.vim
 mv .vimrc ~/.vimrc
-rm -fr ~/dotfiles-vim
+rm -rf ~/dotfiles-vim
 ```
 
 <p align="center">	
