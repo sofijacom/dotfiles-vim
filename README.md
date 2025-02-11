@@ -48,7 +48,7 @@
 > ***Install***
 
 ```
-git clone --recursive https://github.com/sofijacom/dotfiles-vim.git
+git clone https://github.com/sofijacom/dotfiles-vim.git
 cd ~/dotfiles-vim
 mv .vim ~/.vim
 mv .vimrc ~/.vimrc
