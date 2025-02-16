@@ -1,6 +1,6 @@
 <div align="center">
   
-# *dotfiles-vim*
+# _dotfiles-vim_
 
 </div>
 
@@ -45,7 +45,7 @@
 <br>
 
 
-> ***Install***
+> _Install_
 
 ```
 git clone https://github.com/sofijacom/dotfiles-vim.git ~/dotfiles-vim
