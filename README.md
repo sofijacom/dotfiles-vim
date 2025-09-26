@@ -55,7 +55,8 @@ mv .vimrc ~/.vimrc
 rm -rf ~/dotfiles-vim
 ```
 
-> vim.desktop
+> for Void-linux
+>>  vim.desktop
 
 ```
 [Desktop Entry]
