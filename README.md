@@ -47,6 +47,11 @@
 
 > _Install_
 
+```bash
+sudo xbps-install -Su neovim
+```
+
+
 ```
 git clone https://github.com/sofijacom/dotfiles-vim.git ~/dotfiles-vim
 cd ~/dotfiles-vim
