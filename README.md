@@ -48,7 +48,7 @@
 > _Install_
 
 ```bash
-sudo xbps-install -Su neovim
+sudo xbps-install -Su vim
 ```
 
 
