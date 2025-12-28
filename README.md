@@ -69,7 +69,8 @@ rm -rf ~/dotfiles-vim
 Type=Application
 Name=Vim
 Comment=Edit text files
-Exec=vim-normal
+TryExec=vim-normal
+Exec=vim-normal %F
 Terminal=true
 Icon=gvim
 Categories=Utility;TextEditor;
