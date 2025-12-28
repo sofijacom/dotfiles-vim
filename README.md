@@ -61,7 +61,8 @@ rm -rf ~/dotfiles-vim
 ```
 
 > for Void-linux
->>  vim.desktop
+>> /home/spot/.local/share/applications/vim.desktop
+>>>  vim.desktop
 
 ```
 [Desktop Entry]
